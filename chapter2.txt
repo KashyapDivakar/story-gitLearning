@@ -1,1 +1,1 @@
-trying to learn git through terminal or hyper.
+trying to learn git side brach tutorial.
